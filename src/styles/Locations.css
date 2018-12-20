@@ -1,0 +1,21 @@
+
+.panelLocation {
+    width: 70%;
+    margin: auto;
+}
+
+.plusBtn {
+    float: right;
+}
+
+th, tr {
+	text-align: center;
+}
+
+.hover-row span{
+	opacity: 0;
+}
+
+.hover-row:hover span{
+	opacity: 0.6;
+}

@@ -1,0 +1,18 @@
+
+.panelCategory {
+    width: 50%;
+    margin: auto;
+}
+
+.plusBtn {
+    float: right;
+}
+
+.hover-row span{
+    float: right;
+    opacity: 0;
+}
+
+.hover-row:hover span{
+    float: right;
+}
